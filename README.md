@@ -24,7 +24,7 @@ Support my development on [爱发电](https://afdian.net/@GBCLStudio)!
 
 ### 其他：
 
-   [![运行状态](https://img.shields.io/website?down_color=red&labelColor=blue&down_message=Offline%20%7C%20%E4%B8%8B%E7%BA%BF&label=DEMO%20%E6%BC%94%E7%A4%BA%E9%A1%B5%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81&style=for-the-badge&up_color=green&up_message=Online%20%7C%20%E5%9C%A8%E7%BA%BF&url=https://mc.gbclstudio.cn)](https://mc.gbclstudio.cn)   [![License](https://img.shields.io/github/license/GBCLStudio/introduction-page?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=GNU&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html)
+   [![运行状态](https://img.shields.io/website?down_color=red&labelColor=blue&down_message=Offline%20%7C%20%E4%B8%8B%E7%BA%BF&label=DEMO%20%E6%BC%94%E7%A4%BA%E9%A1%B5%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81&style=for-the-badge&up_color=green&up_message=Online%20%7C%20%E5%9C%A8%E7%BA%BF&url=https://mc.gbclstudio.cn)](https://mc.gbclstudio.cn)   [![License](https://img.shields.io/github/license/GBCLStudio/MC-Server-Website?color=orange&labelColor=blue&label=%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8&logo=GNU&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ### 联系作者:
 
