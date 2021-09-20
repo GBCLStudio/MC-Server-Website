@@ -15,7 +15,7 @@
 |server_headshot|服务器 Logo|请填写链接或者网站目录的相对位置
 |studio_headshot|工作室 Logo|如果你的服务器隶属于一个工作室，可以在这里填写工作室Logo
 |copyright|版权归属|
-|copyright_url|版权归属重定向|
+|copyright_url|版权归属链接|
 |url|当前站点 URL
 |tooltips_qq|对导航栏 QQ 图标显示的 Tooltips 内容进行修改
 |tooltips_email|对导航栏 Email 图标显示的 Tooltips 内容进行修改
