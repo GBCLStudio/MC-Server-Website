@@ -29,8 +29,9 @@
 
 - 1. 在服务器的网站运行目录内执行：git clone https://github.com/GBCLStudio/MC-Server-Website.git
 - For Chinese Users: git clone --depth=1 https://hub.fastgit.org/GBCLStudio/MC-Server-Website.git 
-- 2. 修改 index.php 内容到您喜欢的样子
-- 3. 随意使用并给项目一个 Star
+- 2. 修改 config.json 进行配置
+- 3. 修改 index.php 内容自定义更多功能（组件库开发文档：[Argon](https://demos.creative-tim.com/argon-design-system/docs/getting-started/overview.html)）
+- 4. 随意使用并给项目一个 Star
 
 如需查看实现效果请看：[https://mc.gbclstudio.cn](https://mc.gbclstudio.cn)
 
