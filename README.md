@@ -3,6 +3,24 @@
 
 本仓库为 Minecraft 服务器官网模板，主要通过 Bootstrap 和 Argon 组件库实现
 
+## config.json参数说明
+|参数|说明|备注|
+|----|----|----|
+|servername|服务器名字|
+|ip|服务器IP|
+|port|服务器端口|BE端默认 19132
+|introduced|服务器介绍|介绍服务器
+|qqgrouplink|QQ群链接|这里必须填写链接，否则不会跳转
+|email|服务器联系邮箱|
+|server_headshot|服务器 Logo|请填写链接或者网站目录的相对位置
+|studio_headshot|工作室 Logo|如果你的服务器隶属于一个工作室，可以在这里填写工作室Logo
+|copyright|版权归属|
+|copyright_url|版权归属重定向|
+|url|当前站点 URL
+|tooltips_qq|对导航栏 QQ 图标显示的 Tooltips 内容进行修改
+|tooltips_email|对导航栏 Email 图标显示的 Tooltips 内容进行修改
+|download_game|设置下载客户端的地址
+
 欢迎加入我们的新 Telegram 频道，本频道用于发布 GBCLStudio 的最新消息:
 
 [![Telegram  群组](https://img.shields.io/static/v1?label=%E6%9B%B4%E6%96%B0%E8%B5%84%E8%AE%AF&message=GBCLStudio%27s%20Update%20information&color=blue&style=for-the-badge&labelColor=green&logo=telegram)](https://t.me/gbclstudio_news)
