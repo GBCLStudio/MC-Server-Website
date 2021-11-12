@@ -14,7 +14,7 @@ include 'core.php';
   <meta name="author" content="GBCLStudio" />
   <!-- 网站名称（前缀在 Config.json 内修改） -->
   <title>
-    <?php echo $servername;?>'s Websites
+    <?php echo $servername;?>官方网站
   </title>
   <!-- 网站图标 -->
   <link href="<?php echo $server_headshot;?>" rel="icon"/>
