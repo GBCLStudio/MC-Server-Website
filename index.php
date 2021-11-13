@@ -44,6 +44,25 @@ include 'core.php';
   <link rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/argon-design-system-free@1.2.0/assets/css/argon-design-system.min.css"
     integrity="sha256-NpPc/TvnPWyENGIvbtIf7+u6qQ4bQdjUCiaSFNavXho=" crossorigin="anonymous">
+  <script>
+      // 控制台版权归属
+      !(function () {
+        console.log(
+          "%c本站正在使用:%c MC-server-website",
+          "color: rgba(255,255,255,.6); background: #2196f3; font-size: 15px;border-radius:5px 0 0 5px;padding:10px 0 10px 20px;",
+          "color: rgba(255,255,255,1); background: #2196f3; font-size: 15px;border-radius:0;padding:10px 15px 10px 0px;"
+        );
+      })();
+      console.log(
+        "%c本站静态资源:%c腾讯云 上海对象存储",
+        "color:#fff; background: #2196f3;font-size: 12px;border-radius:5px 0 0 5px;padding:3px 10px 3px 10px;",
+        "color:#fff; background: #FF9900;font-size: 12px;border-radius:0 5px 5px 0;padding:3px 10px 3px 10px;"
+      );
+      console.log(
+        "%c我的邮箱：aries#gcxs.fun（# 改为 @）",
+        "font-size: 12px;border-radius:5px;padding:3px 10px 3px 10px;border:1px solid #FF9900;"
+      );
+    </script>
 </head>
 
 <body>
