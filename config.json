@@ -1,5 +1,5 @@
 {
-  "servername": "MRS服务器",
+  "servername": "MRS服务器", 
   "ip": "game.gbclstudio.cn",
   "port": "19132",
   "introduced": "休闲，生存，趣味，养老……为什么不来试试呢？",
@@ -13,4 +13,5 @@
   "tooltips_qq": "MRS 服务器交流群",
   "tooltips_email": "MRS 服务器管理员联系邮箱",
   "download_game": "https://klpbbs.com/xz/?u=MS4xNy4xMS4wMQ=="
+  "author": "GBCLStudio"
 }
