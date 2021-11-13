@@ -1,5 +1,5 @@
 # Minecraft Server 官网模板
-[![仓库资料卡](https://github-readme-stats.vercel.app/api/pin/?username=GBCLStudio&repo=MC-Server-Website&theme=default_repocard&show_owner=true)](https://github.com/GBCLStudio/MC-Server-Website)
+
 
 本仓库为 Minecraft 服务器官网模板，主要通过 Bootstrap 和 Argon 组件库实现
 
