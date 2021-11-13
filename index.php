@@ -11,7 +11,7 @@ include 'core.php';
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- 网站介绍（在 Config.json 内修改） -->
   <meta name="description" content="<?php echo $introduced;?>" />
-  <meta name="author" content="GBCLStudio" />
+  <meta name="author" content=" <?php echo $author;?>" />
   <!-- 网站名称（前缀在 Config.json 内修改） -->
   <title>
     <?php echo $servername;?>官方网站
