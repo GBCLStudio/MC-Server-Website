@@ -22,6 +22,7 @@
 |tooltips_qq|对导航栏 QQ 图标显示的 Tooltips 内容进行修改
 |tooltips_email|对导航栏 Email 图标显示的 Tooltips 内容进行修改
 |download_game|设置下载客户端的地址
+|author|服务器的管理者|若在搜索引擎中收录，将会在SEO中显示出来|
 
 欢迎加入我们的新 Telegram 频道，本频道用于发布 GBCLStudio 的最新消息:
 
