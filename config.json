@@ -1,17 +1,17 @@
 {
-  "servername": "MRS服务器", 
-  "ip": "game.gbclstudio.cn",
-  "port": "19132",
-  "introduced": "休闲，生存，趣味，养老……为什么不来试试呢？",
-  "qqgrouplink": "https://qm.qq.com/cgi-bin/qm/qr?k=JYaGV7LQg00wlCOUTJaC3_1t1xJ4AslK&authKey=lUgLp/GvQIXtD/hCq3AF9xgyoRNkJsZI/yFSKhc4qU252d/VJDARtQNQlvIKbVxc&noverify=0",
-  "email": "burial0268@gbclstudio.cn",
-  "server_headshot": "headshot.jpg",
-  "studio_headshot": "https://cdn-pic.gcxstudio.cn/2021/09/19/LY86.png",
+  "servername": "MRS服务器",  //Server name
+  "ip": "game.gbclstudio.cn",  //Server ip
+  "port": "19132",  //Server port
+  "introduced": "休闲，生存，趣味，养老……为什么不来试试呢？",  //Introduced your server
+  "qqgrouplink": "https://qm.qq.com/cgi-bin/qm/qr?k=JYaGV7LQg00wlCOUTJaC3_1t1xJ4AslK&authKey=lUgLp/GvQIXtD/hCq3AF9xgyoRNkJsZI/yFSKhc4qU252d/VJDARtQNQlvIKbVxc&noverify=0",  //Your server QQ group link(If you have)
+  "email": "burial0268@gbclstudio.cn",  //admin email
+  "server_headshot": "headshot.jpg",  //headshot name
+  "studio_headshot": "https://cdn-pic.gcxstudio.cn/2021/09/19/LY86.png",  //Your server's headshotot
   "copyright": "GBCLStudio",
-  "copyright_url": "https://gbclstudio.cn",
-  "url": "https://mc.gbclstudio.cn",
+  "copyright_url": "https://gbclstudio.cn",  //Copyright link
+  "url": "https://mc.gbclstudio.cn",  //Your server official site's link
   "tooltips_qq": "MRS 服务器交流群",
   "tooltips_email": "MRS 服务器管理员联系邮箱",
-  "download_game": "https://klpbbs.com/xz/?u=MS4xNy4xMS4wMQ=="
-  "author": "GBCLStudio"
+  "download_game": "https://klpbbs.com/xz/?u=MS4xNy4xMS4wMQ=="  //download games
+  "author": "GBCLStudio,Inc"
 }
