@@ -54,12 +54,12 @@ include 'core.php';
         );
       })();
       console.log(
-        "%c本站静态资源:%c腾讯云 上海对象存储",
+        "%c版权归属:%c GBCLStudio,Inc",
         "color:#fff; background: #2196f3;font-size: 12px;border-radius:5px 0 0 5px;padding:3px 10px 3px 10px;",
         "color:#fff; background: #FF9900;font-size: 12px;border-radius:0 5px 5px 0;padding:3px 10px 3px 10px;"
       );
       console.log(
-        "%c我的邮箱：aries#gcxs.fun（# 改为 @）",
+        "%c邮箱：aries#gcxs.fun（# to @）",
         "font-size: 12px;border-radius:5px;padding:3px 10px 3px 10px;border:1px solid #FF9900;"
       );
     </script>
