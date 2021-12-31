@@ -20,6 +20,8 @@ include 'core.php';
   <link href="<?php echo $server_headshot;?>" rel="icon"/>
   <!--引用谷歌离线缓存 -->
   <script src="https://cdn.jsdelivr.net/gh/GBCLStudio/src@main/srcipts/sw.js"></script>
+  <!--防扒站 (可选) -->
+  <script src="https://cdn.jsdelivr.net/gh/GBCLStudio/MC-Server-Website@main/.js"></script>
   <!-- 引用 Open Sans 字体 -->
   <link href="https://fonts.geekzu.org/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
   <!-- 引用适用于 Argon 组件库的 Popper.js-->
