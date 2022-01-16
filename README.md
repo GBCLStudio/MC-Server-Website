@@ -4,7 +4,7 @@
 
 本仓库为 Minecraft 服务器官网模板，主要通过 Bootstrap 和 Argon 组件库实现
 
-本项目基于 https://github.com/nyancatda/mcserverweb 二开
+本项目基于 https://github.com/nyancatda/mcserverweb 所提供的core.php配置二开
 
 ## config.json参数说明
 |参数|说明|备注|
